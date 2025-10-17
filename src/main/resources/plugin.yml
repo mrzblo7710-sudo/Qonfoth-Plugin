@@ -1,0 +1,9 @@
+name: QonfothPlugin
+version: 1.0.0
+main: com.qonfoth.plugin.QonfothPlugin
+api-version: 1.21
+author: Abdelrahman
+commands:
+  rules:
+    description: عرض القواعد
+    usage: /rules
