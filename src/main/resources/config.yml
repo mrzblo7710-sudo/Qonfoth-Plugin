@@ -1,0 +1,86 @@
+config.yml
+
+----------------
+
+# Increment this whenever you change rules to force re-show for all players
+
+config-version: 1
+
+languages:
+
+arabic:
+
+display-name: "العربية"
+
+locale-code: "ar"
+
+pages:
+
+- - "1) احترم اللاعبين: لا تسب أو تهين الآخرين."
+
+- "2) لا غش: ممنوع استخدام شيتات أو أكواد خارجية."
+
+- "3) لا سرقة: لا تختلس ممتلكات اللاعبين."
+
+- - "4) لا تضر العالم: تجنب التدمير أو التخريب العمدي."
+
+- "5) لا استغلال الأخطاء: أبلغ عن أي بَغ تجد."
+
+- "6) احترام الأدلة: اتبع قوانين المشرفين."
+
+- - "7) استخدام أسماء لائقة: لا أسماء مسيئة."
+
+- "8) لا نشر روابط خبيثة أو محتوى غير مناسب."
+
+- "9) استمتع باللعب واحترم أوقات الصلاة واللاعبين الآخرين."
+
+accept-button-name: "✅ أوافق على القواعد"
+
+accept-button-lore:
+
+- "بالضغط على هذا الزر توافق على قوانين السيرفر."
+
+english:
+
+display-name: "English"
+
+locale-code: "en"
+
+pages:
+
+- - "1) Respect others: No insults or harassment."
+
+- "2) No cheating: Don't use external cheats or hacks."
+
+- "3) No stealing: Don't take other players' items."
+
+- - "4) No griefing: Avoid intentional world damage."
+
+- "5) Report bugs: Do not exploit glitches."
+
+- "6) Follow staff guidance: Respect admins and moderators."
+
+- - "7) Use appropriate names: No offensive nicknames."
+
+- "8) No malicious links or inappropriate content."
+
+- "9) Have fun and respect other players' time."
+
+accept-button-name: "✅ I accept the rules"
+
+accept-button-lore:
+
+- "Clicking this button means you agree to follow server rules."
+
+messages:
+
+choose-lang-title: "اختر لغتك / Choose your language"
+
+rules-inventory-title: "القواعد — Page %page% (%lang%)"
+
+already-agreed: "أنت بالفعل قبلت القواعد — تم."
+
+must-accept-to-play: "يجب قبول القواعد للعب على السيرفر."
+
+kicked-for-refuse: "تم طردك لأنك رفضت قبول القواعد."
+
